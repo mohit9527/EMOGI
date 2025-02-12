@@ -1,2 +1,2 @@
-# EMOGI
+# EMOjI
 EMOJI
